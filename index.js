@@ -26,6 +26,7 @@ function localDater() {
 /** Objeto Usuario de Mudi ✅*/
 class Mudi_User {
 
+
     // attr Private
     #idUser
 
@@ -425,3 +426,5 @@ class Mudi_Purchase {
 
 const mudi_purchase = new Mudi_Purchase();
 // mudi_purchase.verifyPurchase();
+
+console.log('probando Tracker')
